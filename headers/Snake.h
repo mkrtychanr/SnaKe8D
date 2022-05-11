@@ -66,6 +66,7 @@ public:
      * @return false - коллизии не обнаружено - игра продолжается
      */
     bool snakeInPointWithoutHead();
+
     void show();
 
     /**
